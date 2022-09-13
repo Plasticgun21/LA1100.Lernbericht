@@ -35,23 +35,13 @@ Console.Write("Geben Sie Bitte Ihre gewünschte Zahl ein");
                     }
    ```   
 
-
-
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
-
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
-
+Der Text zeigt mir wie ich strukturiert programmiert habe, das Bild zeigt mir ob meine Arbeit die ich geleiste habe Funktioniert und der Code zeigt mir genau was ich progammiert habe.
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich arbeitete besser in der Lektion in den wir Zuhause waren, weil ich nicht von meinen Kollegen abgelenkt oder abgelenkt habe.
 
-👎 und etwas, was nicht gut lief.
+Ich habe zu oft mit meinem Kollegen unterhalten, dies führte das ich nicht so schnell und gut gearbeitet habe.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich sollte weniger mit meinen Kollegen unterhalten, damit ich schneller und besser arbeite.
