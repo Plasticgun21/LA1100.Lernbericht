@@ -33,9 +33,7 @@ Console.Write("Geben Sie Bitte Ihre gewünschte Zahl ein");
                     {
                         Console.WriteLine("Sie haben gewonnen");
                     }
-           ```
-
-
+      
 
 
 
