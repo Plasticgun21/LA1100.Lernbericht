@@ -1,15 +1,18 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Luca J.W
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Ich musste ein Random Number Generator Programmieren (RNG) in C#.
 
 ## Was habe ich gelernt?
-
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt wie man in eine Gewünschte Zahl höher oder kleiner als die Nummer vom RNG.
 
 ## Beschreibung
+
+Ich habe zuerst mit der Definitionen der Zwei Zahlen die man für dieser code braucht. Die erste Zahl muss als RNG definiert werden und danch den Bereich von 1 bis 100 definieren. Die zweite Zahl die Gewünschte Zahl wird als "int" 0 definiert weil sie später verändert wird. Danach schrieb ich den Satz "Geben Sie Bitte Ihre gewünschte Zahl ein". Dort habe ich die Gewünschte Zahl zu einen "Convert.ToInt32(Console.ReadLine());" gemacht. Weil man seine eigene Zahl eingeben will.
+
+
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
