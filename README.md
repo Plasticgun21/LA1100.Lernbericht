@@ -15,6 +15,26 @@ Ich habe zuerst mit der Definitionen der Zwei Zahlen die man für dieser code br
 
 ![Kleiner oder Grösser](https://user-images.githubusercontent.com/110892742/189851979-d67711f3-9b72-4a07-94b3-0233e18bca2b.png)
 
+**Code**
+```C#
+Console.Write("Geben Sie Bitte Ihre gewünschte Zahl ein");
+                    GewünschteZahl = Convert.ToInt32(Console.ReadLine());
+
+                    if (GewünschteZahl < rand_num)
+                    {
+                        Console.WriteLine(" Zahl zu klein");
+
+                    }
+                    else if (GewünschteZahl > rand_num)
+                    {
+                        Console.WriteLine("Zahl zu gross");
+                    }
+                    else if (GewünschteZahl == rand_num)
+                    {
+                        Console.WriteLine("Sie haben gewonnen");
+                    }
+           ```
+
 
 
 
